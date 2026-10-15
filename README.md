@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:manishyadav27480@gmail.com"><img src="https://img.shields.io/badge/Email-manishyadav27480%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/manishY-iitm"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/manishY-iitm/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Showcase-00C7B7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+  <a href="https://manishy-iitm.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Showcase-00C7B7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
 </p>
 
 </div>
