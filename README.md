@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👨‍💻 Manish Yadav
-### *Computer Science @ IIT Madras*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Systems+Programming+%26+Linux+Internals;Low-Latency+Networking+%26+Raw+UDP+Sockets;Passionate+Open-Source+Builder+%26+GSoC+Aspirant;Modern+C%2B%2B%2C+Rust%2C+and+POSIX+Userspace)](https://git.io/typing-svg)
 
@@ -17,7 +16,7 @@
 
 ### ⚡ Executive Summary & OS / Systems Philosophy
 
-I am a computer science student at **IIT Madras** passionate about **Operating Systems internals, low-latency systems, and open-source software engineering**. I love peeling back layers of abstraction:
+Passionate developer focused on **Operating Systems internals, low-latency systems, and open-source software engineering**. I love peeling back layers of abstraction:
 - Moving beyond browser abstractions down to **raw POSIX sockets**, **WASAPI/CoreAudio driver interfaces**, and **custom UDP framing**.
 - Building **deterministic, zero-cost userspace daemons** integrated directly into Linux desktop environments (Wayland/GNOME) via Unix domain sockets.
 - Believing in the **Open Source ethos**: transparent roadmaps, clean commit history, RFC-driven architectures, and building public tools that empower fellow developers.
